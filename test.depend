@@ -1,0 +1,324 @@
+# depslib dependency file v1.0
+1391013682 source:c:\files\nauka\dsw\space_game\space_game\alienscoutentity.cpp
+	"AlienScoutEntity.h"
+
+1391013646 c:\files\nauka\dsw\space_game\space_game\alienscoutentity.h
+	<math.h>
+	"Core/Image.h"
+	"Core/SceneNode.h"
+	"EntityDef.h"
+	"EntityFactory.h"
+
+1391013418 c:\files\nauka\dsw\space_game\space_game\core\image.h
+	"Graphics.h"
+	<SDL/SDL_image.h>
+
+1391016024 c:\files\nauka\dsw\space_game\space_game\core\graphics.h
+	<SDL/SDL.h>
+
+1391014418 c:\files\nauka\dsw\space_game\space_game\core\scenenode.h
+	"Graphics.h"
+	"Scene.h"
+	"Rectangle.h"
+
+1391014420 c:\files\nauka\dsw\space_game\space_game\core\scene.h
+	<list>
+	"SceneNode.h"
+	"Rectangle.h"
+
+1391014414 c:\files\nauka\dsw\space_game\space_game\core\rectangle.h
+
+1600503634 c:\files\nauka\dsw\space_game\space_game\entitydef.h
+
+1600503683 c:\files\nauka\dsw\space_game\space_game\entityfactory.h
+	"Core/Image.h"
+	"Core/Rectangle.h"
+	"Core/SceneNode.h"
+	"Core/Sound.h"
+	"EntityDef.h"
+	"AlienScoutEntity.h"
+	"BossEntity.h"
+	"BulletEntity.h"
+	"CheckpointEntity.h"
+	"ExplosionEntity.h"
+	"PlayerEntity.h"
+
+1391013418 c:\files\nauka\dsw\space_game\space_game\core\sound.h
+	"Audio.h"
+
+1391016038 c:\files\nauka\dsw\space_game\space_game\core\audio.h
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+
+1391013654 c:\files\nauka\dsw\space_game\space_game\bossentity.h
+	"Core/Image.h"
+	"Core/SceneNode.h"
+	"EntityDef.h"
+	"EntityFactory.h"
+
+1600512082 c:\files\nauka\dsw\space_game\space_game\bulletentity.h
+	"Core/Image.h"
+	"Core/MapNode.h"
+	"EntityDef.h"
+	"EntityFactory.h"
+
+1391014418 c:\files\nauka\dsw\space_game\space_game\core\mapnode.h
+	"Map.h"
+	"SceneNode.h"
+
+1600600304 c:\files\nauka\dsw\space_game\space_game\core\map.h
+	"Graphics.h"
+	"Image.h"
+	<fstream>
+	<vector>
+
+1391013644 c:\files\nauka\dsw\space_game\space_game\checkpointentity.h
+	"Core/Graphics.h"
+	"Core/SceneNode.h"
+	"EntityDef.h"
+	"PlayerEntity.h"
+
+1600601729 c:\files\nauka\dsw\space_game\space_game\playerentity.h
+	"Core/Rectangle.h"
+	"Core/MapNode.h"
+	"Core/Sprite.h"
+	"EntityDef.h"
+	"EntityFactory.h"
+
+1391014420 c:\files\nauka\dsw\space_game\space_game\core\sprite.h
+	"Image.h"
+	"Rectangle.h"
+
+1391013614 c:\files\nauka\dsw\space_game\space_game\explosionentity.h
+	"Core/SceneNode.h"
+	"Core/Sprite.h"
+	"EntityDef.h"
+	"EntityFactory.h"
+
+1600465960 source:c:\files\nauka\dsw\space_game\space_game\bossentity.cpp
+	"BossEntity.h"
+
+1600601551 source:c:\files\nauka\dsw\space_game\space_game\bulletentity.cpp
+	"BulletEntity.h"
+
+1600522595 source:c:\files\nauka\dsw\space_game\space_game\button.cpp
+	"Button.h"
+
+1391013642 c:\files\nauka\dsw\space_game\space_game\button.h
+	"Core/Image.h"
+	"Core/Input.h"
+	"Core/Rectangle.h"
+
+1391013412 c:\files\nauka\dsw\space_game\space_game\core\input.h
+	<SDL/SDL.h>
+
+1391013596 source:c:\files\nauka\dsw\space_game\space_game\checkpointentity.cpp
+	"CheckpointEntity.h"
+
+1391013416 source:c:\files\nauka\dsw\space_game\space_game\core\audio.cpp
+	"Audio.h"
+
+1391013416 source:c:\files\nauka\dsw\space_game\space_game\core\game.cpp
+	"Game.h"
+
+1391016030 c:\files\nauka\dsw\space_game\space_game\core\game.h
+	<SDL/SDL_ttf.h>
+	"Graphics.h"
+	"Input.h"
+	"Audio.h"
+
+1600183574 source:c:\files\nauka\dsw\space_game\space_game\core\gamestate.cpp
+	"GameState.h"
+
+1391014412 c:\files\nauka\dsw\space_game\space_game\core\gamestate.h
+	"StateManager.h"
+	"Graphics.h"
+
+1391014416 c:\files\nauka\dsw\space_game\space_game\core\statemanager.h
+	<stack>
+	"GameState.h"
+	"Graphics.h"
+
+1392411986 source:c:\files\nauka\dsw\space_game\space_game\core\graphics.cpp
+	"Graphics.h"
+
+1391272578 source:c:\files\nauka\dsw\space_game\space_game\core\image.cpp
+	"Image.h"
+
+1391013418 source:c:\files\nauka\dsw\space_game\space_game\core\input.cpp
+	"Input.h"
+
+1600600053 source:c:\files\nauka\dsw\space_game\space_game\core\map.cpp
+	"Map.h"
+	<cstdlib>
+	<ctime>
+
+1391014414 source:c:\files\nauka\dsw\space_game\space_game\core\mapnode.cpp
+	"MapNode.h"
+
+1391013416 source:c:\files\nauka\dsw\space_game\space_game\core\music.cpp
+	"Music.h"
+
+1391013414 c:\files\nauka\dsw\space_game\space_game\core\music.h
+	"Audio.h"
+
+1391013418 source:c:\files\nauka\dsw\space_game\space_game\core\outlinefont.cpp
+	"OutlineFont.h"
+
+1391015998 c:\files\nauka\dsw\space_game\space_game\core\outlinefont.h
+	<SDL/SDL_ttf.h>
+	"Graphics.h"
+
+1391013414 source:c:\files\nauka\dsw\space_game\space_game\core\rasterfont.cpp
+	"RasterFont.h"
+
+1391013418 c:\files\nauka\dsw\space_game\space_game\core\rasterfont.h
+	"Image.h"
+
+1391014422 source:c:\files\nauka\dsw\space_game\space_game\core\rectangle.cpp
+	"Rectangle.h"
+
+1391014420 source:c:\files\nauka\dsw\space_game\space_game\core\scene.cpp
+	"Scene.h"
+
+1391014418 source:c:\files\nauka\dsw\space_game\space_game\core\scenenode.cpp
+	"SceneNode.h"
+
+1391013414 source:c:\files\nauka\dsw\space_game\space_game\core\sound.cpp
+	"Sound.h"
+
+1391014420 source:c:\files\nauka\dsw\space_game\space_game\core\sprite.cpp
+	"Sprite.h"
+
+1391014412 source:c:\files\nauka\dsw\space_game\space_game\core\statemanager.cpp
+	"StateManager.h"
+
+1392152830 source:c:\files\nauka\dsw\space_game\space_game\creditsstate.cpp
+	"CreditsState.h"
+
+1391013682 c:\files\nauka\dsw\space_game\space_game\creditsstate.h
+	"Core/GameState.h"
+	"Core/Image.h"
+	"Core/Input.h"
+
+1600601299 source:c:\files\nauka\dsw\space_game\space_game\entityfactory.cpp
+	"EntityFactory.h"
+
+1391013684 source:c:\files\nauka\dsw\space_game\space_game\explosionentity.cpp
+	"ExplosionEntity.h"
+
+1600543773 source:c:\files\nauka\dsw\space_game\space_game\gameendingstate.cpp
+	"GameEndingState.h"
+
+1600544215 c:\files\nauka\dsw\space_game\space_game\gameendingstate.h
+	"Core/GameState.h"
+	"Core/Image.h"
+	"Core/Input.h"
+	"Button.h"
+
+1600543838 source:c:\files\nauka\dsw\space_game\space_game\gameoverstate.cpp
+	"GameOverState.h"
+
+1600544328 c:\files\nauka\dsw\space_game\space_game\gameoverstate.h
+	"Core/GameState.h"
+	"Core/Image.h"
+	"Core/Input.h"
+	"Button.h"
+
+1600539328 source:c:\files\nauka\dsw\space_game\space_game\level.cpp
+	"Level.h"
+
+1391013684 c:\files\nauka\dsw\space_game\space_game\level.h
+	<fstream>
+	"Core/Map.h"
+	"Core/Scene.h"
+	"EntityFactory.h"
+	"BossEntity.h"
+
+1391013660 source:c:\files\nauka\dsw\space_game\space_game\main.cpp
+	"SpaceGame.h"
+
+1600282983 c:\files\nauka\dsw\space_game\space_game\spacegame.h
+	"Core/Game.h"
+	"Core/StateManager.h"
+	"MainMenuState.h"
+	"RunState.h"
+
+1600525503 c:\files\nauka\dsw\space_game\space_game\mainmenustate.h
+	"Core/Game.h"
+	"Core/GameState.h"
+	"Core/Graphics.h"
+	"Core/Image.h"
+	"Core/Input.h"
+	"Core/Music.h"
+	"Button.h"
+	"RunState.h"
+
+1600543043 c:\files\nauka\dsw\space_game\space_game\runstate.h
+	"Core/Audio.h"
+	"Core/GameState.h"
+	"Core/Map.h"
+	"Core/Music.h"
+	"Core/Rectangle.h"
+	"Core/Scene.h"
+	"EntityFactory.h"
+	"GameEndingState.h"
+	"GameOverState.h"
+	"Level.h"
+	"Player.h"
+	"Player2.h"
+	"PauseState.h"
+
+1600516455 c:\files\nauka\dsw\space_game\space_game\player.h
+	"Core/Graphics.h"
+	"Core/Input.h"
+	"PlayerEntity.h"
+	"Level.h"
+
+1391013660 c:\files\nauka\dsw\space_game\space_game\pausestate.h
+	"Core/GameState.h"
+	"Core/Image.h"
+	"Core/Input.h"
+	"Button.h"
+
+1600525183 source:c:\files\nauka\dsw\space_game\space_game\mainmenustate.cpp
+	"MainMenuState.h"
+
+1600521330 source:c:\files\nauka\dsw\space_game\space_game\pausestate.cpp
+	"PauseState.h"
+
+1600540427 source:c:\files\nauka\dsw\space_game\space_game\player.cpp
+	"Player.h"
+
+1600540129 source:c:\files\nauka\dsw\space_game\space_game\playerentity.cpp
+	"PlayerEntity.h"
+
+1600543241 source:c:\files\nauka\dsw\space_game\space_game\runstate.cpp
+	"RunState.h"
+
+1600279320 source:c:\files\nauka\dsw\space_game\space_game\spacegame.cpp
+	"SpaceGame.h"
+
+1600183340 c:\files\nauka\dsw\space_game\space_game\tanksstate.h
+	"Core/Audio.h"
+	"Core/GameState.h"
+	"Core/Map.h"
+	"Core/Music.h"
+	"Core/Rectangle.h"
+	"Core/Scene.h"
+	"EntityFactory.h"
+	"GameEndingState.h"
+	"GameOverState.h"
+	"Level.h"
+	"Player.h"
+	"PauseState.h"
+
+1600516442 c:\files\nauka\dsw\space_game\space_game\player2.h
+	"Core/Graphics.h"
+	"Core/Input.h"
+	"PlayerEntity.h"
+	"Level.h"
+
+1600540528 source:c:\files\nauka\dsw\space_game\space_game\player2.cpp
+	"Player2.h"
+

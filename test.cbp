@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="test" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="default">
+				<Option output="test" prefix_auto="1" extension_auto="1" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="AlienScoutEntity.cpp" />
+		<Unit filename="AlienScoutEntity.h" />
+		<Unit filename="BossEntity.cpp" />
+		<Unit filename="BossEntity.h" />
+		<Unit filename="BulletEntity.cpp" />
+		<Unit filename="BulletEntity.h" />
+		<Unit filename="Button.cpp" />
+		<Unit filename="Button.h" />
+		<Unit filename="CheckpointEntity.cpp" />
+		<Unit filename="CheckpointEntity.h" />
+		<Unit filename="Core/Audio.cpp" />
+		<Unit filename="Core/Audio.h" />
+		<Unit filename="Core/Game.cpp" />
+		<Unit filename="Core/Game.h" />
+		<Unit filename="Core/GameState.cpp" />
+		<Unit filename="Core/GameState.h" />
+		<Unit filename="Core/Graphics.cpp" />
+		<Unit filename="Core/Graphics.h" />
+		<Unit filename="Core/Image.cpp" />
+		<Unit filename="Core/Image.h" />
+		<Unit filename="Core/Input.cpp" />
+		<Unit filename="Core/Input.h" />
+		<Unit filename="Core/Map.cpp" />
+		<Unit filename="Core/Map.h" />
+		<Unit filename="Core/MapNode.cpp" />
+		<Unit filename="Core/MapNode.h" />
+		<Unit filename="Core/Music.cpp" />
+		<Unit filename="Core/Music.h" />
+		<Unit filename="Core/OutlineFont.cpp" />
+		<Unit filename="Core/OutlineFont.h" />
+		<Unit filename="Core/RasterFont.cpp" />
+		<Unit filename="Core/RasterFont.h" />
+		<Unit filename="Core/Rectangle.cpp" />
+		<Unit filename="Core/Rectangle.h" />
+		<Unit filename="Core/Scene.cpp" />
+		<Unit filename="Core/Scene.h" />
+		<Unit filename="Core/SceneNode.cpp" />
+		<Unit filename="Core/SceneNode.h" />
+		<Unit filename="Core/Sound.cpp" />
+		<Unit filename="Core/Sound.h" />
+		<Unit filename="Core/Sprite.cpp" />
+		<Unit filename="Core/Sprite.h" />
+		<Unit filename="Core/StateManager.cpp" />
+		<Unit filename="Core/StateManager.h" />
+		<Unit filename="CreditsState.cpp" />
+		<Unit filename="CreditsState.h" />
+		<Unit filename="EntityDef.h" />
+		<Unit filename="EntityFactory.cpp" />
+		<Unit filename="EntityFactory.h" />
+		<Unit filename="ExplosionEntity.cpp" />
+		<Unit filename="ExplosionEntity.h" />
+		<Unit filename="GameEndingState.cpp" />
+		<Unit filename="GameEndingState.h" />
+		<Unit filename="GameOverState.cpp" />
+		<Unit filename="GameOverState.h" />
+		<Unit filename="Level.cpp" />
+		<Unit filename="Level.h" />
+		<Unit filename="MainMenuState.cpp" />
+		<Unit filename="MainMenuState.h" />
+		<Unit filename="PauseState.cpp" />
+		<Unit filename="PauseState.h" />
+		<Unit filename="Player.cpp" />
+		<Unit filename="Player.h" />
+		<Unit filename="Player2.cpp" />
+		<Unit filename="Player2.h" />
+		<Unit filename="PlayerEntity.cpp" />
+		<Unit filename="PlayerEntity.h" />
+		<Unit filename="RunState.cpp" />
+		<Unit filename="RunState.h" />
+		<Unit filename="SDL.dll" />
+		<Unit filename="SDL_image.dll" />
+		<Unit filename="SDL_mixer.dll" />
+		<Unit filename="SDL_ttf.dll" />
+		<Unit filename="SpaceGame.cpp" />
+		<Unit filename="SpaceGame.h" />
+		<Unit filename="audio/music/gamesong.mp3" />
+		<Unit filename="audio/music/menu.mp3" />
+		<Unit filename="audio/sfx/bullet.wav" />
+		<Unit filename="audio/sfx/explosion.wav" />
+		<Unit filename="graphics/backgrounds/space.bmp" />
+		<Unit filename="graphics/backgrounds/stars1.bmp" />
+		<Unit filename="graphics/backgrounds/stars2.bmp" />
+		<Unit filename="graphics/maps/level1.map" />
+		<Unit filename="graphics/maps/tiles.bmp" />
+		<Unit filename="graphics/menus/ending/background.bmp" />
+		<Unit filename="graphics/menus/ending/main_menu_button.bmp" />
+		<Unit filename="graphics/menus/gameover/main_menu_button.bmp" />
+		<Unit filename="graphics/menus/gameover/overlay.bmp" />
+		<Unit filename="graphics/menus/main/background.bmp" />
+		<Unit filename="graphics/menus/main/credits_button.bmp" />
+		<Unit filename="graphics/menus/main/exit_button.bmp" />
+		<Unit filename="graphics/menus/main/start_game_button.bmp" />
+		<Unit filename="graphics/menus/pause/continue_button.bmp" />
+		<Unit filename="graphics/menus/pause/exit_button.bmp" />
+		<Unit filename="graphics/menus/pause/overlay.bmp" />
+		<Unit filename="graphics/sprites/alien_scout.bmp" />
+		<Unit filename="graphics/sprites/boss.bmp" />
+		<Unit filename="graphics/sprites/bullets.bmp" />
+		<Unit filename="graphics/sprites/checkpoint.bmp" />
+		<Unit filename="graphics/sprites/explosion.bmp" />
+		<Unit filename="graphics/sprites/explosion_small.bmp" />
+		<Unit filename="graphics/sprites/player.bmp" />
+		<Unit filename="graphics/sprites/player_life.bmp" />
+		<Unit filename="jpeg.dll" />
+		<Unit filename="levels/level1.txt" />
+		<Unit filename="libfreetype-6.dll" />
+		<Unit filename="libjpeg-8.dll" />
+		<Unit filename="libogg-0.dll" />
+		<Unit filename="libpng12-0.dll" />
+		<Unit filename="libpng15-15.dll" />
+		<Unit filename="libtiff-3.dll" />
+		<Unit filename="libtiff-5.dll" />
+		<Unit filename="libvorbis-0.dll" />
+		<Unit filename="libvorbisfile-3.dll" />
+		<Unit filename="libwebp-2.dll" />
+		<Unit filename="main.cpp" />
+		<Unit filename="mikmod.dll" />
+		<Unit filename="smpeg.dll" />
+		<Unit filename="zlib1.dll" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

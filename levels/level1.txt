@@ -1,0 +1,7 @@
+graphics/maps/level1.map
+graphics/maps/tiles.bmp
+75
+150
+checkpoint 16311 393
+alien_boss 38128 416
+alien_scout 2048 201
